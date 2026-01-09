@@ -1,7 +1,7 @@
 # rexec-time
 Get Program Execution time
 
-### Download from [here](https://github.com/rajmani7584/rexec-time)
+### Download from [here](https://github.com/rajmani7584/rexec-time/releases/latest)
 
 # Usage
 
