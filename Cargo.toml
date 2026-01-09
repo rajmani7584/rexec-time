@@ -1,0 +1,8 @@
+[package]
+name = "rexec-time"
+version = "0.1.0"
+edition = "2024"
+authors = ["Rajmani Kumar"]
+
+[dependencies]
+colored = "3.0.0"
